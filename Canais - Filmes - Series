@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",GLOBO SP
 http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",GLOBO RJ
-
-
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP INTERIOR
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 
@@ -49,7 +46,6 @@ http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b54
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP Full HD
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b4738048.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redemeionorte.png" group-title="TV ABERTA", REDE MEIO NORTE  
 http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
@@ -165,20 +161,11 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES", SPORT 2 HD 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/TX1jfAh.jpg" group-title="TV Aberta",TV Maceió
-http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS 
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/TX1jfAh.jpg" group-title="TV Aberta",TV Pajuçara Al
-https://slbps-sambatech.akamaized.net/live/1947%2C4197%2C0b5a1efbf424e052b41172073a296efa%3Bbase64np%3BZqIZr-VtE4OD8T0%21/amlst%3AZqLhtvgmFoKcsbHx/chunklist_b3128000.m3u8?sts=st=1561287756~exp=1561294356~acl=/*~hmac=c63ab7e9a8f57962febc691c29d4d29049dd0de33f2f8a876856502e82403d6b 
+https://slbps-sambatech.akamaized.net/live/1947%2C4197%2C0b5a1efbf424e052b41172073a296efa%3Bbase64np%3BZqIZr-VtE4OD8T0%21/amlst%3AZqLhtvgmFoKcsbHx/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="TV Aberta",TV FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8 
@@ -205,7 +192,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="Cultura" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura GO
-http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8S 
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cultura" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PR
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8 
@@ -220,7 +207,7 @@ http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV RO
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8S 
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVE Internacional" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="TV Aberta",TV BRASIL ANIMES
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8 
@@ -249,7 +236,7 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="Canção Nova" tvg-logo="http://i.imgur.com/XqZCYLY.png" group-title="Religiosos",TV Canção Nova HD
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?sd=10&rebase=on 
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Religiosos",Rede Século 21
 http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8S 
@@ -264,7 +251,7 @@ http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/c0Yv7h1.png" group-title="Religiosos",Rede Gênesis
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS 
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qYqLZqW.png" group-title="Religiosos", TV AD BELÉM
 http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
@@ -301,10 +288,10 @@ http://80.80.160.168/live/6/live.m3u8
 http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/c0Yv7h1.png" group-title="Infantil",TV Rede Gênesis Cartoon
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8S 
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil", Animes
-http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8 
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Nickelodeon
 http://85.244.70.140:7000/play/a00o 
@@ -420,7 +407,7 @@ https://archive.org/download/BiografiasSobreAHistriaDoBrasil/ZliaGattai.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a/EGih9.jpg" group-title="DOCUMENTARIOS",SCI TV Stephen Hawking e as Células-Tronco
 http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4 
 
-#EXTINF:-1 tvg-logo="https://portal2013br.files.wordpress.com/2015/10/17.jpg?w=731&h=541" group-title="DOCUMENTARIOS",O Sentido Da Vida Stephen Hawking
+#EXTINF:-1 tvg-logo="https://portal2013br.files.wordpress.com/2015/10/17.jpg?w=731&amp;h=541" group-title="DOCUMENTARIOS",O Sentido Da Vida Stephen Hawking
 http://archive.org/download/OSentidoDaVidaPorStephenHawking/O%20Sentido%20da%20Vida%20por%20Stephen%20Hawking.mp4 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="DOCUMENTARIOS",alem dos limites humanos - hipoxia
@@ -524,7 +511,7 @@ http://cdnh4.iblups.com/hls/irtp.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UuFzgM.jpg" group-title="CANAIS INTERNACIONAIS", PER: TV DIGITAL PERU HD
-http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8?sd=10&rebase=on 
+http://uvodscp-lh.akamaihd.net/i/ped001rtmp_1@460473/index_1_av-p.m3u8 
 
 #EXTINF:-1 tvg-id="TV Telesur" tvg-logo="https://i.imgur.com/6euqurz.png?1" group-title="CANAIS INTERNACIONAIS", VEN: TV TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8 
@@ -563,7 +550,9 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: MULTIMEDIOS MONTERREY 2
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 #################################Rádios############################################## 
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#################################Rádios############################################## 
 
 #EXTINF:-1 group-title="Radio Online" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 70
 http://192.99.150.31:8241/stream? 
@@ -835,7 +824,7 @@ http://thor.lhmtv.gq/cdn1/filmes2017/BLADERUNNERDUB-BAIXO.mp4?LHMTv
 http://thor.lhmtv.gq/cdn1/filmes2017/NINGUEMENTRASAI2017-BAIXO.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Chegada
-http://thor.lhmtv.gq/cdn1/filmes2017/CH4GADADUB-BAIXO.mp4?LHMTv 
+http://thor.lhmtv.gq/cdn1/filmes2017/CH4GADADUB-BAIXO.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Resident Evil Vendetta
 http://thor.lhmtv.gq/cdn1/filmes2017/EVILDUB2017-BAIXO.mp4?LHMTv 
@@ -937,7 +926,7 @@ http://thor.lhmtv.gq/origin/filmes2016/animacoes/SUPBRAINIAC-BAIXO.mp4?LHMTv
 http://thor.lhmtv.gq/origin/filmes2016/animacoes/WW-BAIXO.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Liga da Justica - A Nova Fronteira
-http://thor.lhmtv.gq/origin/filmes2016/animacoes/LDJFRONTIER-BAIXO.mp4?LHMTv 
+http://thor.lhmtv.gq/origin/filmes2016/animacoes/LDJFRONTIER-BAIXO.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Morte do Superman
 http://thor.lhmtv.gq/origin/filmes2016/animacoes/SUPDOOMS-BAIXO.mp4?LHMTv 
@@ -955,13 +944,13 @@ http://thor.lhmtv.gq/origin/filmes2016/deadpool/DUB/2016-BAIXO.mp4?LHMTv
 http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,1984
-http://media-br-am.crackle.com/1/p/f6/75ylf_480p_1mbps.mp4?LHMTv 
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p_1mbps.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,8mm - Oito Milimetros
 http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Beira do Abismo
-http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?LHMTv 
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Era da Escuridao - Mutant Chronicles
 http://media-br-am.crackle.com/1/e/f6/w4ylf_480p_1mbps.mp4?LHMTv 
@@ -985,7 +974,7 @@ http://media-br-am.crackle.com/1/g/n6/r7ulf_480p_1mbps.mp4?LHMTv
 http://media-br-am.crackle.com/1/u/l6/7ewlf_480p_1mbps.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Informante
-http://media-br-am.crackle.com/1/j/l6/ydwlf_480p_1mbps.mp4?LHMTv 
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p_1mbps.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Jovem Rainha Victoria
 http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4?LHMTv 
@@ -1018,7 +1007,7 @@ http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4?LHMTv
 http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,All That Jazz: O Show Deve Continuar
-http://media-br-am.crackle.com/1/_/d6/i5vlf_480p_1mbps.mp4?LHMTv 
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p_1mbps.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Almondegas 4 - Ferias de Verao
 http://media-br-am.crackle.com/1/q/v6/jkvlf_480p_1mbps.mp4?LHMTv 
@@ -1215,7 +1204,7 @@ http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Homens de Preto
 http://media-br-am.crackle.com/1/h/v6/hmvlf_480p_1mbps.mp4 
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Honra & Coragem - As Quatro Plumas
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Honra &amp; Coragem - As Quatro Plumas
 http://media-br-am.crackle.com/1/6/d6/04vlf_480p_1mbps.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,HOOK. A volta do capitao gancho
@@ -1724,7 +1713,7 @@ http://thor.lhmtv.gq/origin/filmes2017/JOVENSDUB-BAIXO.mp4?LHMTv
 
 #################################Coleção Batman##############################################
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Scooby-Doo & Batman: Os Bravos e Destemidos
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Scooby-Doo &amp; Batman: Os Bravos e Destemidos
 http://thor.lhmtv.gq/cdn1/filmes2017/SCOOBYEBATMANDUB-BAIXO.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Batman - O Cavaleiro das Trevas Ressurge
@@ -1733,7 +1722,7 @@ http://thor.lhmtv.gq/cdn1/filmes2017/BATMAN03DUB-BAIXO.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Batman o Cavaleiro das Trevas
 http://thor.lhmtv.gq/cdn1/filmes2017/BATMAN02DUB-BAIXO.mp4?LHMTv 
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Batman & Arlequina: Pancadas e Risadas
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Batman &amp; Arlequina: Pancadas e Risadas
 http://thor.lhmtv.gq/cdn1/filmes2017/BATMANALERQUINADUB-BAIXO.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,LEGO Batman: O Filme
@@ -1775,7 +1764,7 @@ http://vidar.lhmtv.gq/Servidor/lbofm7.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Batman - The Killing Joke
 http://vidar.lhmtv.gq/Servidor/inf/bapmrt.mp4?LHMTv 
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Superman & Batman: Inimigos Publicos
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Superman &amp; Batman: Inimigos Publicos
 http://thor.lhmtv.gq/origin/filmes2016/animacoes/SBPUBLICO-BAIXO.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Batman- O Retorno Da Dupla Dinamica
@@ -1790,7 +1779,7 @@ http://vidar.lhmtv.gq/Servidor/bvsa4k.mp4?LHMTv
 #EXTINF:-1´type="video" tvg-logo="https://goo.gl/v6xw7s" group-title="Lançamentos 2018",Batman: by Gaslight 2018
 https://goo.gl/rFA5Sr
 
-#EXTINF:-1´type="video" tvg-logo="https://goo.gl/wSLkRJ" group-title="Lançamentos 2018",Scooby-Doo & Batman Os Bravos e Destemidos 2018
+#EXTINF:-1´type="video" tvg-logo="https://goo.gl/wSLkRJ" group-title="Lançamentos 2018",Scooby-Doo &amp; Batman Os Bravos e Destemidos 2018
 https://goo.gl/gP9eoe 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/tgwKeQ" group-title="Filmes",Batman A Piada Mortal
@@ -2938,7 +2927,7 @@ http://vidar.lhmtv.gq/Servidor/inf/srakne.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Shaun A Ovelha - O Filme
 http://vidar.lhmtv.gq/Servidor/inf/soceir.mp4?LHMTv 
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Snoopy & Charlie Brown - O Filme
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Snoopy &amp; Charlie Brown - O Filme
 http://vidar.lhmtv.gq/Servidor/inf/secbpf.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Space Dogs - Aventuras Na Lua
@@ -3091,7 +3080,7 @@ http://vidar.lhmtv.gq/Servidor/lan/tolod7.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Tropas estelares - invasores de marte
 http://vidar.lhmtv.gq/Servidor/lan/teidm7.mp4?LHMTv 
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Tom & Jerry - willy wonka e a fantastica fabrica de chocolate
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Tom &amp; Jerry - willy wonka e a fantastica fabrica de chocolate
 http://vidar.lhmtv.gq/Servidor/lan/tejaf7.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Tudo e todas as coisas
@@ -3199,13 +3188,13 @@ http://vidar.lhmtv.gq/Servidor/lan/vef8h7.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Velozes e furiosos 8 HD
 http://vidar.lhmtv.gq/Servidor/lan/vef8hd.mp4?LHMTv 
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Vincent & Roxxy - amor e crime
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Vincent &amp; Roxxy - amor e crime
 http://vidar.lhmtv.gq/Servidor/lan/verca7.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Warcraft-dois Mundos. Um Territorio
 http://vidar.lhmtv.gq/Servidor/wopedm.mp4?LHMTv 
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Water & Power
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Water &amp; Power
 http://vidar.lhmtv.gq/Servidor/wapac7.mp4?LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus" ,Wheelman
@@ -3295,7 +3284,7 @@ http://thor.lhmtv.gq/bonus/CTM1J7
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus", Marcando Territorio
 http://thor.lhmtv.gq/bonus/Ytj3jG 
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus", Lila & Eve
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus", Lila &amp; Eve
 http://thor.lhmtv.gq/bonus/ZaZCU8 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus", Creed: Nascido Para Lutar
@@ -3868,7 +3857,7 @@ http://thor.lhmtv.gq/bonus/RxpK6G
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus", Never Back Down No Surrender
 http://thor.lhmtv.gq/bonus/RLV3tH 
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus", Naomi & Ely e a Lista do Nao Beijo
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus", Naomi &amp; Ely e a Lista do Nao Beijo
 http://thor.lhmtv.gq/bonus/7VythT 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus", Capitao America 2
@@ -5263,7 +5252,7 @@ http://thor.lhmtv.gq/bonus/WJ4oyU
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus", O Quarto da Morte
 http://thor.lhmtv.gq/bonus/Q5aKUC 
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus", Amor & Amizade
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus", Amor &amp; Amizade
 http://thor.lhmtv.gq/bonus/WxhRQ4 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/bonus.png" group-title="Sessao Bonus", Sacrificio
@@ -6459,7 +6448,7 @@ https://goo.gl/csCk5m
 #EXTINF:-1 tvg-logo="http://i.imgur.com/lp12IlP.jpg" group-title="Filmes",Coração do Ártico
 https://goo.gl/yWs8na 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yZPcIQk.jpg" group-title="Filmes",Frank & Lola
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yZPcIQk.jpg" group-title="Filmes",Frank &amp; Lola
 https://goo.gl/5wdT1p 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HGxPpfr.jpg" group-title="Filmes",O Mestre dos Jogos 3
@@ -8358,26 +8347,26 @@ https://goo.gl/SCorhF
 #EXTINF:-1 tvg-logo="http://i.imgur.com/cxiq0T9.jpg" group-title="Filmes",A Colina Escarlate
 https://goo.gl/SFU76f 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Ft8FWTO.jpg" group-title="Filmes",Loucademia de Polícia 7: Missão Moscou
-https://goo.gl/eByHWW 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XzOBL5l.jpg" group-title="Filmes",Loucademia De Polícia
+https://goo.gl/BfgM7d
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f6LSVQs.jpg" group-title="Filmes",Loucademia de Polícia 2: A Primeira Missão
+https://goo.gl/jVzDg7
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/h7hRnMZ.jpg" group-title="Filmes",Loucademia De Polícia 3: De Volta Ao Treinamento
+https://goo.gl/tZm9WT
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/neoW0Kp.jpg" group-title="Filmes",Loucademia de Polícia 4: O Cidadão se Defende
+https://goo.gl/WYo6Vb
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2qcMxrr.jpg" group-title="Filmes",Loucademia de Polícia 5: Missão Miami Beach
+https://goo.gl/EmJxt4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/I8MlGT7.jpg" group-title="Filmes",Loucademia de Polícia 6: Cidade em Estado de Sítio
 https://goo.gl/BRZWge 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/2qcMxrr.jpg" group-title="Filmes",Loucademia de Polícia 5: Missão Miami Beach
-https://goo.gl/EmJxt4 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/neoW0Kp.jpg" group-title="Filmes",Loucademia de Polícia 4: O Cidadão se Defende
-https://goo.gl/WYo6Vb 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/h7hRnMZ.jpg" group-title="Filmes",Loucademia De Polícia 3: De Volta Ao Treinamento
-https://goo.gl/tZm9WT 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/f6LSVQs.jpg" group-title="Filmes",Loucademia de Polícia 2: A Primeira Missão
-https://goo.gl/jVzDg7 
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/XzOBL5l.jpg" group-title="Filmes",Loucademia De Polícia
-https://goo.gl/BfgM7d 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ft8FWTO.jpg" group-title="Filmes",Loucademia de Polícia 7: Missão Moscou
+https://goo.gl/eByHWW 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YMdt0WL.jpg" group-title="Filmes",Quase Deuses
 https://goo.gl/aHCgqF 
@@ -8397,7 +8386,7 @@ https://goo.gl/CTM1J7
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gKnF1Zy.jpg" group-title="Filmes",Marcando Território Dublado
 https://goo.gl/Ytj3jG 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/qp9RHPm.jpg" group-title="Filmes",Lila & Eve Dublado
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qp9RHPm.jpg" group-title="Filmes",Lila &amp; Eve Dublado
 https://goo.gl/ZaZCU8 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/L1kSscu.jpg" group-title="Filmes",Creed: Nascido Para Lutar Dublado
@@ -8970,7 +8959,7 @@ https://goo.gl/RxpK6G
 #EXTINF:-1 tvg-logo="https://goo.gl/8W6Bsw" group-title="Filmes",Never Back Down No Surrender
 https://goo.gl/RLV3tH 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/gHxUd3" group-title="Filmes",Naomi & Ely e a Lista do Não Beijo
+#EXTINF:-1 tvg-logo="https://goo.gl/gHxUd3" group-title="Filmes",Naomi &amp; Ely e a Lista do Não Beijo
 https://goo.gl/7VythT 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/WVVzwe" group-title="Filmes",Capitão América 2
@@ -10386,7 +10375,7 @@ https://goo.gl/WJ4oyU
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UFr3NV7.jpg" group-title="Filmes",O Quarto da Morte
 https://goo.gl/Q5aKUC 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RLiwm5l.jpg" group-title="Filmes",Amor & Amizade
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RLiwm5l.jpg" group-title="Filmes",Amor &amp; Amizade
 https://goo.gl/WxhRQ4 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XEUQhD2.jpg" group-title="Filmes",Sacrifício
@@ -10431,373 +10420,373 @@ https://goo.gl/6aUDgD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XShFprD.jpg" group-title="Filmes",David Brent
 https://goo.gl/aGhYGN
 
- #EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP01
+#EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP01
 https://goo.gl/R6sdXs
 
- #EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP02
+#EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP02
 https://goo.gl/dCGG7b
 
- #EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP03
+#EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP03
 https://goo.gl/6TVhFs
 
- #EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP04
+#EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP04
 https://goo.gl/JTFe5j
 
- #EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP05
+#EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP05
 https://goo.gl/KPsGUg
 
- #EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP06
+#EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP06
 https://goo.gl/Kvqpny
 
- #EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP07
+#EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP07
 https://goo.gl/wYreRs
 
- #EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP08
+#EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP08
 https://goo.gl/nB9iWy
 
- #EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP09
+#EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP09
 https://goo.gl/ruDpQo
 
- #EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP10
+#EXTINF:0 tvg-logo="https://goo.gl/Rq9ujN" group-title="DARK", DARK T1|EP10
 https://goo.gl/L8JsMR
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x01 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x01 Dublado Elementary
 https://goo.gl/pYkc5q
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x02 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x02 Dublado Elementary
 https://goo.gl/gNL2NY
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x03 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x03 Dublado Elementary
 https://goo.gl/LuT1A7
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x04 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x04 Dublado Elementary
 https://goo.gl/hbJnEj
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x05 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x05 Dublado Elementary
 https://goo.gl/25X7i9
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x06 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x06 Dublado Elementary
 https://goo.gl/LRcW6Y
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x07 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x07 Dublado Elementary
 https://goo.gl/5FBezK
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x08 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x08 Dublado Elementary
 https://goo.gl/Ea2nr3
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x09 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x09 Dublado Elementary
 https://goo.gl/V9ixm1
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x10 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x10 Dublado Elementary
 https://goo.gl/TSTq2n
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x11 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x11 Dublado Elementary
 https://goo.gl/3m9876
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x12 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x12 Dublado Elementary
 https://goo.gl/eZWfHM
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x13 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x13 Dublado Elementary
 https://goo.gl/1kLxdS
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x14 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x14 Dublado Elementary
 https://goo.gl/9P6qic
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x15 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x15 Dublado Elementary
 https://goo.gl/WAKqD9
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x16 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x16 Dublado Elementary
 https://goo.gl/PJdVj5
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x17 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x17 Dublado Elementary
 https://goo.gl/r8iZGW
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x18 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x18 Dublado Elementary
 https://goo.gl/KkcPAF
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x19 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x19 Dublado Elementary
 https://goo.gl/K661tR
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x20 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x20 Dublado Elementary
 https://goo.gl/EfYs3Y
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x21 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x21 Dublado Elementary
 https://goo.gl/sGVBvW
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x22 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x22 Dublado Elementary
 https://goo.gl/q54eG5
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x23 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 1x23 Dublado Elementary
 https://goo.gl/XaumCk
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x01 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x01 Dublado Elementary
 https://goo.gl/px4p7F
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x02 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x02 Dublado Elementary
 https://goo.gl/gw6y9R
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x03 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x03 Dublado Elementary
 https://goo.gl/jkt5up
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x04 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x04 Dublado Elementary
 https://goo.gl/YPpnRu
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x05 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x05 Dublado Elementary
 https://goo.gl/fK7RmH
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x06 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x06 Dublado Elementary
 https://goo.gl/UM8f5m
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x07 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x07 Dublado Elementary
 https://goo.gl/eeC7Jr
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x08 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x08 Dublado Elementary
 https://goo.gl/tL7aga
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x09 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x09 Dublado Elementary
 https://goo.gl/NXe1WH
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x10 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x10 Dublado Elementary
 https://goo.gl/jWqn6R
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x11 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x11 Dublado Elementary
 https://goo.gl/x9tFkw
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x12 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x12 Dublado Elementary
 https://goo.gl/RCXJmw
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x13 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x13 Dublado Elementary
 https://goo.gl/zEiGyx
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x14 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x14 Dublado Elementary
 https://goo.gl/HcswV6
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x15 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x15 Dublado Elementary
 https://goo.gl/vihcdB
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x16 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x16 Dublado Elementary
 https://goo.gl/CBrP7u
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x17 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x17 Dublado Elementary
 https://goo.gl/d8ptQA
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x18 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x18 Dublado Elementary
 https://goo.gl/coJmVH
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x19 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x19 Dublado Elementary
 https://goo.gl/S2vcnd
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x20 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x20 Dublado Elementary
 https://goo.gl/u48PQa
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x21 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x21 Dublado Elementary
 https://goo.gl/TtR773
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x22 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x22 Dublado Elementary
 https://goo.gl/rzwCrW
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x23 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x23 Dublado Elementary
 https://goo.gl/GpGecX
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x24 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 2x24 Dublado Elementary
 https://goo.gl/APNtyy
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x01 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x01 Dublado Elementary
 https://goo.gl/e8rq78
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x02 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x02 Dublado Elementary
 https://goo.gl/jrJzer
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x03 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x03 Dublado Elementary
 https://goo.gl/Yd9Cwz
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x04 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x04 Dublado Elementary
 https://goo.gl/5KbJuY
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x05 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x05 Dublado Elementary
 https://goo.gl/mPY6qv
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x06 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x06 Dublado Elementary
 https://goo.gl/fQWbbv
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x07 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x07 Dublado Elementary
 https://goo.gl/kKsTp1
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x08 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x08 Dublado Elementary
 https://goo.gl/3aPkSQ
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x09 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x09 Dublado Elementary
 https://goo.gl/Ghyws8
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x10 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x10 Dublado Elementary
 https://goo.gl/Bo9yHb
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x11 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x11 Dublado Elementary
 https://goo.gl/sDDuso
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x12 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x12 Dublado Elementary
 https://goo.gl/VDGFMt
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x13 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x13 Dublado Elementary
 https://goo.gl/Vu3CBP
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x14 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x14 Dublado Elementary
 https://goo.gl/FVHUaq
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x15 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x15 Dublado Elementary
 https://goo.gl/qJzW8Q
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x16 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x16 Dublado Elementary
 https://goo.gl/7Qy8D6
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x17 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x17 Dublado Elementary
 https://goo.gl/7ju23z
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x18 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x18 Dublado Elementary
 https://goo.gl/jhTdiB
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x19 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x19 Dublado Elementary
 https://goo.gl/mkUSgf
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x20 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x20 Dublado Elementary
 https://goo.gl/JUVnej
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x21 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x21 Dublado Elementary
 https://goo.gl/m8xAfe
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x22 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x22 Dublado Elementary
 https://goo.gl/cVdcm6
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x23 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x23 Dublado Elementary
 https://goo.gl/p4zDmZ
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x24 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 3x24 Dublado Elementary
 https://goo.gl/zCKqcx
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x01 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x01 Dublado Elementary
 https://goo.gl/2nKZmr
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x02 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x02 Dublado Elementary
 https://goo.gl/KqXdMm
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x03 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x03 Dublado Elementary
 https://goo.gl/qCLymW
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x04 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x04 Dublado Elementary
 https://goo.gl/wNt7pd
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x05 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x05 Dublado Elementary
 https://goo.gl/XMBrFq
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x06 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x06 Dublado Elementary
 https://goo.gl/Zh1H4D
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x07 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x07 Dublado Elementary
 https://goo.gl/c5tLNs
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x08 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x08 Dublado Elementary
 https://goo.gl/NnjG2x
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x09 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x09 Dublado Elementary
 https://goo.gl/X1qQoT
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x10 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x10 Dublado Elementary
 https://goo.gl/r57rRJ
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x11 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x11 Dublado Elementary
 https://goo.gl/2Xqifz
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x12 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x12 Dublado Elementary
 https://goo.gl/wgserx
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x13 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x13 Dublado Elementary
 https://goo.gl/vbQaEC
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x14 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x14 Dublado Elementary
 https://goo.gl/YbGN9g
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x15 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x15 Dublado Elementary
 https://goo.gl/Kevjbm
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x16 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x16 Dublado Elementary
 https://goo.gl/egRDPM
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x17 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 4x17 Dublado Elementary
 https://goo.gl/sd1Uep
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x01 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x01 Dublado Elementary
 https://goo.gl/b9Xq3n
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x02 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x02 Dublado Elementary
 https://goo.gl/SsYdtV
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x03 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x03 Dublado Elementary
 https://goo.gl/DrxzfN
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x04 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x04 Dublado Elementary
 https://goo.gl/b1KFjz
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x05 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x05 Dublado Elementary
 https://goo.gl/dE3kAL
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x06 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x06 Dublado Elementary
 https://goo.gl/JcepL4
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x07 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x07 Dublado Elementary
 https://goo.gl/29tGV2
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x08 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x08 Dublado Elementary
 https://goo.gl/xTQw94
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x09 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x09 Dublado Elementary
 https://goo.gl/tG743f
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x10 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x10 Dublado Elementary
 https://goo.gl/9CNVst
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x11 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x11 Dublado Elementary
 https://goo.gl/P8gJJ7
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x12 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x12 Dublado Elementary
 https://goo.gl/UJAXN4
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x13 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x13 Dublado Elementary
 https://goo.gl/Wt435S
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x14 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x14 Dublado Elementary
 https://goo.gl/77e2YL
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x15 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x15 Dublado Elementary
 https://goo.gl/fmRPp7
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x16 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x16 Dublado Elementary
 https://goo.gl/cCTCa1
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x17 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x17 Dublado Elementary
 https://goo.gl/YVjPk7
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x18 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x18 Dublado Elementary
 https://goo.gl/KQ4rr6
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x19 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x19 Dublado Elementary
 https://goo.gl/XJWw7M
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x20 Dublado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x20 Dublado Elementary
 https://goo.gl/XT4eJ4
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x21 Legendado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x21 Legendado Elementary
 https://goo.gl/XdJdYB
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x22 Legendado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x22 Legendado Elementary
 https://goo.gl/hqGn2A
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x23 Legendado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x23 Legendado Elementary
 https://goo.gl/kGfCHG
 
- #EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x24 Legendado Elementary
+#EXTINF:0 tvg-logo="https://goo.gl/bYoM7M" group-title="Elementary",Ep 5x24 Legendado Elementary
 https://goo.gl/jk1ZSj 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/HncU5r" group-title="GOTHAM", GOTHAM T1|EP1
+EXTINF:-1 tvg-logo="https://goo.gl/HncU5r" group-title="GOTHAM", GOTHAM T1|EP1
 https://goo.gl/YHUZx3 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/HncU5r" group-title="GOTHAM", GOTHAM T1|EP2
@@ -12417,232 +12406,232 @@ https://goo.gl/Bikpuh
 #EXTINF:-1 tvg-logo="https://goo.gl/Xz8wW4" group-title="Hawaii Five-0",Ep 6x25 Hawaii Five-0
 https://goo.gl/AdN7gM
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x01 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x01 Dublado IZombie
 https://goo.gl/rQ3jrr
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x02 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x02 Dublado IZombie
 https://goo.gl/XQVESG
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x03 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x03 Dublado IZombie
 https://goo.gl/j1aCC5
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x04 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x04 Dublado IZombie
 https://goo.gl/wq9zZb
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x05 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x05 Dublado IZombie
 https://goo.gl/B4SJpN
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x06 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x06 Dublado IZombie
 https://goo.gl/QhbKbJ
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x07 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x07 Dublado IZombie
 https://goo.gl/7Bu5By
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x08 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x08 Dublado IZombie
 https://goo.gl/trfZBF
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x09 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x09 Dublado IZombie
 https://goo.gl/n3uRqd
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x10 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x10 Dublado IZombie
 https://goo.gl/SaSBsx
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x11 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x11 Dublado IZombie
 https://goo.gl/Xp7NFp
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x12 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x12 Dublado IZombie
 https://goo.gl/uynu9g
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x13 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 1x13 Dublado IZombie
 https://goo.gl/3dqj5U
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x01 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x01 Dublado IZombie
 https://goo.gl/4MiMhH
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x02 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x02 Dublado IZombie
 https://goo.gl/rsKvEb
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x03 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x03 Dublado IZombie
 https://goo.gl/az76bU
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x04 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x04 Dublado IZombie
 https://goo.gl/cnpRLb
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x05 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x05 Dublado IZombie
 https://goo.gl/wRzh7J
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x06 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x06 Dublado IZombie
 https://goo.gl/YsmNX4
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x07 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x07 Dublado IZombie
 https://goo.gl/PbP5pc
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x08 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x08 Dublado IZombie
 https://goo.gl/r5nkFF
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x09 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x09 Dublado IZombie
 https://goo.gl/HJNee1
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x10 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x10 Dublado IZombie
 https://goo.gl/fjrQ2D
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x11 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x11 Dublado IZombie
 https://goo.gl/26mLY3
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x12 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x12 Dublado IZombie
 https://goo.gl/WQRppj
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x13 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x13 Dublado IZombie
 https://goo.gl/882xZR
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x14 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x14 Dublado IZombie
 https://goo.gl/zPGryG
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x15 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x15 Dublado IZombie
 https://goo.gl/2S4MFH
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x16 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x16 Dublado IZombie
 https://goo.gl/RocaUc
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x17 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x17 Dublado IZombie
 https://goo.gl/B29gkT
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x18 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x18 Dublado IZombie
 https://goo.gl/yuYtu7
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x19 Dublado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 2x19 Dublado IZombie
 https://goo.gl/rzJ1JX
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x01 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x01 Legendado IZombie
 https://goo.gl/L2eC9N
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x02 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x02 Legendado IZombie
 https://goo.gl/yzabfQ
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x03 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x03 Legendado IZombie
 https://goo.gl/UqnJiR
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x04 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x04 Legendado IZombie
 https://goo.gl/QR9QC2
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x05 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x05 Legendado IZombie
 https://goo.gl/A93oMJ
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x06 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x06 Legendado IZombie
 https://goo.gl/sLRLgM
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x07 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x07 Legendado IZombie
 https://goo.gl/QxYwJt
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x08 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x08 Legendado IZombie
 https://goo.gl/mwm6gS
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x09 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x09 Legendado IZombie
 https://goo.gl/byfXpZ
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x10 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x10 Legendado IZombie
 https://goo.gl/DziiWf
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x11 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x11 Legendado IZombie
 https://goo.gl/JZ6JzH
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x12 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x12 Legendado IZombie
 https://goo.gl/gBFQCY
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x13 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 3x13 Legendado IZombie
 https://goo.gl/KvBLbY
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x01 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x01 Legendado IZombie
 https://goo.gl/HVDYkT
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x02 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x02 Legendado IZombie
 https://goo.gl/yuWMY7
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x03 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x03 Legendado IZombie
 https://goo.gl/szSVpF
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x04 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x04 Legendado IZombie
 https://goo.gl/k2N1Q1
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x05 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x05 Legendado IZombie
 https://goo.gl/miyn8M
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x06 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x06 Legendado IZombie
 https://goo.gl/SQo1g2
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x07 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x07 Legendado IZombie
 https://goo.gl/Sb6HfH
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x08 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x08 Legendado IZombie
 https://goo.gl/F6o7hx
 
- #EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x09 Legendado IZombie
+#EXTINF:0 tvg-logo="https://goo.gl/QkpJQK" group-title="IZombie",Ep 4x09 Legendado IZombie
 https://goo.gl/JfaoG1
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP1
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP1
 https://goo.gl/BXN7vV
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP2
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP2
 https://goo.gl/BNQv47
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP3
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP3
 https://goo.gl/ND7VtJ
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP4
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP4
 https://goo.gl/QmUAKZ
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP5
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP5
 https://goo.gl/MTkyfs
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP6
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP6
 https://goo.gl/pN9xCJ
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP7
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP7
 https://goo.gl/1dwnW9
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP8
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP8
 https://goo.gl/R1gGNT
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP9
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP9
 https://goo.gl/uinm5t
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP10
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP10
 https://goo.gl/foMPDG
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP11
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP11
 https://goo.gl/5kUtQx
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP12
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP12
 https://goo.gl/sQmDSP
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP13
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P T01|EP13
 https://goo.gl/D1hziH
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP1
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP1
 https://goo.gl/3HcjHT
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP2
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP2
 https://goo.gl/Z5NA64
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP3
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP3
 https://goo.gl/uwuzTH
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP4
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP4
 https://goo.gl/WwMcnR
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP5
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP5
 https://goo.gl/KfJaGM
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP6
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP6
 https://goo.gl/id5B2m
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP7
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP7
 https://goo.gl/F6Qnx3
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP8
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP8
 https://goo.gl/FBgw7s
 
- #EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP9
+#EXTINF:0 tvg-logo="https://goo.gl/7oHYRk" group-title="LA CASA DE PAPEL",L.C.D.P S02|EP9
 https://goo.gl/uf8pJH 
 
 #EXTINF:-1 tvg-logo="http://m3u.me/br/4Uyp" group-title="Lucifer",Ep 01x01 Dub Lucifer
@@ -12840,400 +12829,400 @@ https://goo.gl/tWn1HQ
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iOKlPTi.jpg" group-title="Luke Cage",S01E13
 https://goo.gl/2LCn6h
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x01 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x01 Dublado Lost
 https://goo.gl/SWXQkS
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x02 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x02 Dublado Lost
 https://goo.gl/eF9xsD
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x03 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x03 Dublado Lost
 https://goo.gl/KbfsXz
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x04 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x04 Dublado Lost
 https://goo.gl/gubXGA
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x05 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x05 Dublado Lost
 https://goo.gl/GefNhq
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x06 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x06 Dublado Lost
 https://goo.gl/WJNr36
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x07 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x07 Dublado Lost
 https://goo.gl/9vVJEx
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x08 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x08 Dublado Lost
 https://goo.gl/rQXWQV
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x09 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x09 Dublado Lost
 https://goo.gl/Kyh4BF
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x10 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x10 Dublado Lost
 https://goo.gl/6t3k8u
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x11 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x11 Dublado Lost
 https://goo.gl/z7rvxr
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x12 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x12 Dublado Lost
 https://goo.gl/zSEQcJ
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x13 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x13 Dublado Lost
 https://goo.gl/Sse1DX
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x14 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x14 Dublado Lost
 https://goo.gl/NoVc9h
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x15 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x15 Dublado Lost
 https://goo.gl/4qEQqx
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x16 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x16 Dublado Lost
 https://goo.gl/XA2s2R
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x17 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x17 Dublado Lost
 https://goo.gl/pHgCvQ
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x18 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x18 Dublado Lost
 https://goo.gl/ZTfPWE
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x19 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x19 Dublado Lost
 https://goo.gl/Yh8jd8
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x20 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x20 Dublado Lost
 https://goo.gl/ts4woV
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x21 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x21 Dublado Lost
 https://goo.gl/JxJvcf
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x22 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x22 Dublado Lost
 https://goo.gl/61XX1N
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x23 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x23 Dublado Lost
 https://goo.gl/oqoQDJ
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x24 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x24 Dublado Lost
 https://goo.gl/1Pzt9q
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x25 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 1x25 Dublado Lost
 https://goo.gl/8pvmvs
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x01 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x01 Dublado Lost
 https://goo.gl/PHHf4Y
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x02 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x02 Dublado Lost
 https://goo.gl/jpL5Gz
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x03 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x03 Dublado Lost
 https://goo.gl/knPUCz
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x04 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x04 Dublado Lost
 https://goo.gl/v6gief
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x05 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x05 Dublado Lost
 https://goo.gl/Lijc8Y
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x06 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x06 Dublado Lost
 https://goo.gl/BCXffF
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x07 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x07 Dublado Lost
 https://goo.gl/5GME6X
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x08 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x08 Dublado Lost
 https://goo.gl/jLbMBt
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x09 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x09 Dublado Lost
 https://goo.gl/Q8aa5u
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x10 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x10 Dublado Lost
 https://goo.gl/5VgauT
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x11 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x11 Dublado Lost
 https://goo.gl/sqqpsZ
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x12 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x12 Dublado Lost
 https://goo.gl/xyb3mq
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x13 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x13 Dublado Lost
 https://goo.gl/eyFyfi
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x14 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x14 Dublado Lost
 https://goo.gl/EAuRiT
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x15 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x15 Dublado Lost
 https://goo.gl/wurz4b
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x16 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x16 Dublado Lost
 https://goo.gl/xTrKT3
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x17 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x17 Dublado Lost
 https://goo.gl/4rDWMV
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x18 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x18 Dublado Lost
 https://goo.gl/W29qTK
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x19 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x19 Dublado Lost
 https://goo.gl/xRrXos
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x20 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x20 Dublado Lost
 https://goo.gl/HDaHek
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x21 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x21 Dublado Lost
 https://goo.gl/g94XuH
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x22 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x22 Dublado Lost
 https://goo.gl/5vfEjA
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x23 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x23 Dublado Lost
 https://goo.gl/TxAtdb
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x24 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 2x24 Dublado Lost
 https://goo.gl/ei24uf
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x01 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x01 Dublado Lost
 https://goo.gl/EGfrzn
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x02 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x02 Dublado Lost
 https://goo.gl/Bc9HhY
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x03 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x03 Dublado Lost
 https://goo.gl/k9H17Z
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x04 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x04 Dublado Lost
 https://goo.gl/pZ1dML
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x05 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x05 Dublado Lost
 https://goo.gl/segC3C
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x06 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x06 Dublado Lost
 https://goo.gl/z9noNn
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x07 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x07 Dublado Lost
 https://goo.gl/fqW5Gd
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x08 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x08 Dublado Lost
 https://goo.gl/Rm48QQ
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x09 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x09 Dublado Lost
 https://goo.gl/7i8vsF
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x10 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x10 Dublado Lost
 https://goo.gl/GZ2fQo
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x11 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x11 Dublado Lost
 https://goo.gl/X6VqxK
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x12 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x12 Dublado Lost
 https://goo.gl/wubWnN
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x13 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x13 Dublado Lost
 https://goo.gl/28Kbts
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x14 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x14 Dublado Lost
 https://goo.gl/So9MF3
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x15 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x15 Dublado Lost
 https://goo.gl/TbxJqE
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x16 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x16 Dublado Lost
 https://goo.gl/nNTohJ
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x17 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x17 Dublado Lost
 https://goo.gl/GTJ95T
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x18 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x18 Dublado Lost
 https://goo.gl/G4ji5W
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x19 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x19 Dublado Lost
 https://goo.gl/HEohtt
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x20 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x20 Dublado Lost
 https://goo.gl/eTKtra
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x21 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x21 Dublado Lost
 https://goo.gl/zUxeW5
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x22 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x22 Dublado Lost
 https://goo.gl/X2TA8V
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x23 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 3x23 Dublado Lost
 https://goo.gl/Fpedai
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x01 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x01 Dublado Lost
 https://goo.gl/NFnu4R
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x02 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x02 Dublado Lost
 https://goo.gl/Jy6WCf
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x03 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x03 Dublado Lost
 https://goo.gl/85aCgS
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x04 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x04 Dublado Lost
 https://goo.gl/XgiiPu
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x05 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x05 Dublado Lost
 https://goo.gl/33ZhKV
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x06 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x06 Dublado Lost
 https://goo.gl/k8MPt9
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x07 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x07 Dublado Lost
 https://goo.gl/KUQ1p1
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x08 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x08 Dublado Lost
 https://goo.gl/KFPRLN
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x09 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x09 Dublado Lost
 https://goo.gl/z8zur4
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x10 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x10 Dublado Lost
 https://goo.gl/hebTf9
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x11 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x11 Dublado Lost
 https://goo.gl/XHM6KC
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x12 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x12 Dublado Lost
 https://goo.gl/JHuWwY
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x13 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x13 Dublado Lost
 https://goo.gl/BkExjd
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x14 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 4x14 Dublado Lost
 https://goo.gl/gShP4G
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x01 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x01 Dublado Lost
 https://goo.gl/E5ETpb
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x02 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x02 Dublado Lost
 https://goo.gl/Kn1TSL
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x03 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x03 Dublado Lost
 https://goo.gl/vgfeLr
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x04 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x04 Dublado Lost
 https://goo.gl/T3cJk6
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x05 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x05 Dublado Lost
 https://goo.gl/vonH5Q
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x06 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x06 Dublado Lost
 https://goo.gl/d34xzY
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x07 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x07 Dublado Lost
 https://goo.gl/DgfKx1
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x08 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x08 Dublado Lost
 https://goo.gl/vCpXWc
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x09 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x09 Dublado Lost
 https://goo.gl/kkbKMZ
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x10 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x10 Dublado Lost
 https://goo.gl/CGuR6G
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x11 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x11 Dublado Lost
 https://goo.gl/f26nQA
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x12 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x12 Dublado Lost
 https://goo.gl/MRrETu
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x13 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x13 Dublado Lost
 https://goo.gl/aTMEpN
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x14 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x14 Dublado Lost
 https://goo.gl/izQFim
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x15 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x15 Dublado Lost
 https://goo.gl/MZNDUx
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x16 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x16 Dublado Lost
 https://goo.gl/VFVbCc
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x17 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 5x17 Dublado Lost
 https://goo.gl/TmWuEs
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x01-02 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x01-02 Dublado Lost
 https://goo.gl/DqSCyZ
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x03 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x03 Dublado Lost
 https://goo.gl/8Gdyy7
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x04 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x04 Dublado Lost
 https://goo.gl/E51f4t
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x05 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x05 Dublado Lost
 https://goo.gl/7MAQDv
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x06 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x06 Dublado Lost
 https://goo.gl/ZWmW8i
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x07 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x07 Dublado Lost
 https://goo.gl/pjLQxG
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x08 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x08 Dublado Lost
 https://goo.gl/aM6VXM
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x09 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x09 Dublado Lost
 https://goo.gl/2Kg8t4
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x10 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x10 Dublado Lost
 https://goo.gl/v7GSxC
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x11 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x11 Dublado Lost
 https://goo.gl/MH7tod
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x12 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x12 Dublado Lost
 https://goo.gl/hYoF46
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x13 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x13 Dublado Lost
 https://goo.gl/ZPVN7m
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x14 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x14 Dublado Lost
 https://goo.gl/q75HYZ
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x15 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x15 Dublado Lost
 https://goo.gl/9Q38MD
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x16 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x16 Dublado Lost
 https://goo.gl/zgAJ3Z
 
- #EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x17-18 Dublado Lost
+#EXTINF:0 tvg-logo="https://goo.gl/zaxNCi" group-title="Lost",Ep 6x17-18 Dublado Lost
 https://goo.gl/zhbchj
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x01 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x01 Dublado Marvel O Justiceiro
 https://goo.gl/x6Co9s
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x02 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x02 Dublado Marvel O Justiceiro
 https://goo.gl/UckKVb
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x03 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x03 Dublado Marvel O Justiceiro
 https://goo.gl/3uYq8S
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x04 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x04 Dublado Marvel O Justiceiro
 https://goo.gl/Z46dh8
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x05 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x05 Dublado Marvel O Justiceiro
 https://goo.gl/fokpdc
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x06 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x06 Dublado Marvel O Justiceiro
 https://goo.gl/fphKHh
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x07 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x07 Dublado Marvel O Justiceiro
 https://goo.gl/Ra6M34
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x08 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x08 Dublado Marvel O Justiceiro
 https://goo.gl/kQtjtn
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x09 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x09 Dublado Marvel O Justiceiro
 https://goo.gl/SHxdPw
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x10 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x10 Dublado Marvel O Justiceiro
 https://goo.gl/RwFzNr
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x11 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x11 Dublado Marvel O Justiceiro
 https://goo.gl/tzP6QT
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x12 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x12 Dublado Marvel O Justiceiro
 https://goo.gl/CiLx2X
 
- #EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x13 Dublado Marvel O Justiceiro
+#EXTINF:0 tvg-logo="https://goo.gl/9KFPn9" group-title="O Justiceiro",Ep 1x13 Dublado Marvel O Justiceiro
 https://goo.gl/1X44LW 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/qJbuPE" group-title="Ozark",Ozark Ep 1x01
@@ -13890,256 +13879,256 @@ https://goo.gl/hnRbYa
 #EXTINF:-1 tvg-logo="https://goo.gl/3mbyXp" group-title="Quantico",Ep 3x03 Quantico
 https://goo.gl/6qsQmk
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x01 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x01 Dublado Scorpion
 https://goo.gl/9pqycW
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x02 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x02 Dublado Scorpion
 https://goo.gl/YkAGH9
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x03 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x03 Dublado Scorpion
 https://goo.gl/gFDjFN
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x04 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x04 Dublado Scorpion
 https://goo.gl/3h3EXz
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x05 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x05 Dublado Scorpion
 https://goo.gl/BsXi2J
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x06 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x06 Dublado Scorpion
 https://goo.gl/G7nEkp
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x07 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x07 Dublado Scorpion
 https://goo.gl/rbmtQx
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x08 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x08 Dublado Scorpion
 https://goo.gl/RMEqbc
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x09 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x09 Dublado Scorpion
 https://goo.gl/Vzw7k1
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x10 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x10 Dublado Scorpion
 https://goo.gl/xFP6qJ
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x11 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x11 Dublado Scorpion
 https://goo.gl/BdzLK5
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x12 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x12 Dublado Scorpion
 https://goo.gl/SPDsgh
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x13 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x13 Dublado Scorpion
 https://goo.gl/gv8KRB
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x14 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x14 Dublado Scorpion
 https://goo.gl/t1Kknq
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x15 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x15 Dublado Scorpion
 https://goo.gl/oEQKwG
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x16 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x16 Dublado Scorpion
 https://goo.gl/f3YmRe
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x17 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x17 Dublado Scorpion
 https://goo.gl/rGt1UG
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x18 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x18 Dublado Scorpion
 https://goo.gl/kDm76o
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x19 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x19 Dublado Scorpion
 https://goo.gl/ZMJqQZ
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x20 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x20 Dublado Scorpion
 https://goo.gl/P55B5X
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x21 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x21 Dublado Scorpion
 https://goo.gl/Lcisdk
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x22 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 1x22 Dublado Scorpion
 https://goo.gl/8S28kT
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x01 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x01 Dublado Scorpion
 https://goo.gl/TAF2at
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x02 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x02 Dublado Scorpion
 https://goo.gl/UFCQba
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x03 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x03 Dublado Scorpion
 https://goo.gl/ZZeqsJ
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x04 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x04 Dublado Scorpion
 https://goo.gl/cc9Dn4
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x05 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x05 Dublado Scorpion
 https://goo.gl/MwYpzW
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x06 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x06 Dublado Scorpion
 https://goo.gl/tLA39F
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x07 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x07 Dublado Scorpion
 https://goo.gl/QUrScg
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x08 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x08 Dublado Scorpion
 https://goo.gl/NEM72Z
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x09 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x09 Dublado Scorpion
 https://goo.gl/yyCAu6
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x10 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x10 Dublado Scorpion
 https://goo.gl/NNCxMJ
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x11 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x11 Dublado Scorpion
 https://goo.gl/oEz2BN
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x12 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x12 Dublado Scorpion
 https://goo.gl/B6BsQK
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x13 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x13 Dublado Scorpion
 https://goo.gl/DDn3Sz
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x14 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x14 Dublado Scorpion
 https://goo.gl/Yh3v8R
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x15 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x15 Dublado Scorpion
 https://goo.gl/xefgFg
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x16 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x16 Dublado Scorpion
 https://goo.gl/uLdEtq
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x17 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x17 Dublado Scorpion
 https://goo.gl/vtta53
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x18 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x18 Dublado Scorpion
 https://goo.gl/pgqbX5
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x19 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x19 Dublado Scorpion
 https://goo.gl/Jef12H
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x20 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x20 Dublado Scorpion
 https://goo.gl/zt5mvu
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x21 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x21 Dublado Scorpion
 https://goo.gl/gTA4yZ
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x22 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 2x22 Dublado Scorpion
 https://goo.gl/uxBEwz
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x01-02 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x01-02 Dublado Scorpion
 https://goo.gl/k1E8P8
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x03 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x03 Dublado Scorpion
 https://goo.gl/4rR9So
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x04 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x04 Dublado Scorpion
 https://goo.gl/hPsQig
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x05 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x05 Dublado Scorpion
 https://goo.gl/msY2iH
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x06 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x06 Dublado Scorpion
 https://goo.gl/tgwcdw
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x07 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x07 Dublado Scorpion
 https://goo.gl/QMt142
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x08 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x08 Dublado Scorpion
 https://goo.gl/98ZXDN
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x09 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x09 Dublado Scorpion
 https://goo.gl/txnSwH
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x10 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x10 Dublado Scorpion
 https://goo.gl/aMEC3n
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x11 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x11 Dublado Scorpion
 https://goo.gl/8Vk4ja
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x12 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x12 Dublado Scorpion
 https://goo.gl/vPRVWw
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x13 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x13 Dublado Scorpion
 https://goo.gl/awA8t5
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x14 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x14 Dublado Scorpion
 https://goo.gl/hb4wNH
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x15 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x15 Dublado Scorpion
 https://goo.gl/cx6Vrc
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x16 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x16 Dublado Scorpion
 https://goo.gl/Mi3QHi
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x17 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x17 Dublado Scorpion
 https://goo.gl/nAmSF2
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x18 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x18 Dublado Scorpion
 https://goo.gl/eS6nTH
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x19 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x19 Dublado Scorpion
 https://goo.gl/8rKbPm
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x20 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x20 Dublado Scorpion
 https://goo.gl/q5Gyb2
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x21 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x21 Dublado Scorpion
 https://goo.gl/SQ6FCV
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x22 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x22 Dublado Scorpion
 https://goo.gl/HS51Rb
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x23 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x23 Dublado Scorpion
 https://goo.gl/RF7T8n
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x24 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x24 Dublado Scorpion
 https://goo.gl/7tPDkY
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x25 Dublado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 3x25 Dublado Scorpion
 https://goo.gl/zLrLxr
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x01 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x01 Legendado Scorpion
 https://goo.gl/w4AB4g
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x02 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x02 Legendado Scorpion
 https://goo.gl/ETRbKc
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x03 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x03 Legendado Scorpion
 https://goo.gl/q5VpKF
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x04 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x04 Legendado Scorpion
 https://goo.gl/18nYYM
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x05 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x05 Legendado Scorpion
 https://goo.gl/P8Kzpb
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x06 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x06 Legendado Scorpion
 https://goo.gl/SUg9iU
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x07 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x07 Legendado Scorpion
 https://goo.gl/PmBbvY
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x08 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x08 Legendado Scorpion
 https://goo.gl/NVvMjR
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x09 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x09 Legendado Scorpion
 https://goo.gl/T2WXc9
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x10 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x10 Legendado Scorpion
 https://goo.gl/GsxNzN
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x11 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x11 Legendado Scorpion
 https://goo.gl/rL48Pa
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x12 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x12 Legendado Scorpion
 https://goo.gl/MV2bJW
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x13 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x13 Legendado Scorpion
 https://goo.gl/keD6jz
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x14 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x14 Legendado Scorpion
 https://goo.gl/vYdDjk
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x15 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x15 Legendado Scorpion
 https://goo.gl/ZEkM5Q
 
- #EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x16 Legendado Scorpion
+#EXTINF:0 tvg-logo="https://goo.gl/YWYYy5" group-title="Scorpion",Ep 4x16 Legendado Scorpion
 https://goo.gl/agvKLx 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/6hZzG2" group-title="Sense8",Ep 1x01 Sense8
@@ -14211,55 +14200,55 @@ https://goo.gl/qjj47G
 #EXTINF:-1 tvg-logo="https://goo.gl/2mmChx" group-title="Sense8",Ep 2x10 Sense8
 https://goo.gl/FSHCqk
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x01 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x01 Stranger Things
 https://goo.gl/bGYxAV
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x02 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x02 Stranger Things
 https://goo.gl/ie9K6b
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x03 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x03 Stranger Things
 https://goo.gl/UoAWpf
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x04 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x04 Stranger Things
 https://goo.gl/yKSsUF
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x05 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x05 Stranger Things
 https://goo.gl/zZCdPV
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x06 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x06 Stranger Things
 https://goo.gl/kcCbyQ
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x07 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x07 Stranger Things
 https://goo.gl/YhhbzF
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x08 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 1x08 Stranger Things
 https://goo.gl/RXkpFJ
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x01 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x01 Stranger Things
 https://goo.gl/qWKMqc
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x02 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x02 Stranger Things
 https://goo.gl/L41hKn
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x03 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x03 Stranger Things
 https://goo.gl/A26wqq
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x04 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x04 Stranger Things
 https://goo.gl/fKALhr
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x05 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x05 Stranger Things
 https://goo.gl/BjziQ6
 
  #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x06 Stranger Things
 https://goo.gl/9TEkBZ
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x07 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x07 Stranger Things
 https://goo.gl/KK3bpG
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x08 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x08 Stranger Things
 https://goo.gl/4dGQGH
 
- #EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x09 Stranger Things
+#EXTINF:0 tvg-logo="https://goo.gl/wjLBqS" group-title="Serie: Stranger Things",Ep 2x09 Stranger Things
 https://goo.gl/kKsn9L 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Ci9ZG1" group-title="True Blood",Ep 1x01 True Blood
@@ -14905,7 +14894,6 @@ https://goo.gl/rW3M7v
 https://goo.gl/VoTsGL 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/6PYVDy" group-title="ARROW", ARROW T6|EP20 
-
 
 #EXTINF:-1 tvg-logo="https://goo.gl/nr7WKk" group-title="Serie: The Walking Dead",1x01 The Walking Dead
 https://goo.gl/FZxj7a 
@@ -15562,268 +15550,268 @@ https://goo.gl/fvyhMy
 https://goo.gl/LyvMrV 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E01 Todo mundo odeia o Chris
-http://hel.lhmtv.gq/play/?contentId=772f3dd743192e9c&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=772f3dd743192e9c&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E02 Todo mundo odeia Keisha
-http://hel.lhmtv.gq/play/?contentId=4c1ef80f8ac980ce&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=4c1ef80f8ac980ce&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E03 Todo mundo odeia Basquetebol
-http://hel.lhmtv.gq/play/?contentId=b5ad5d9475bca87b&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=b5ad5d9475bca87b&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E04 Todo mundo odeia linguica
-http://hel.lhmtv.gq/play/?contentId=68d5feeffa13e985&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=68d5feeffa13e985&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E05 Todo mundo odeia Mikao
-http://hel.lhmtv.gq/play/?contentId=14a4aefb7c78532c&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=14a4aefb7c78532c&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E06 Todo mundo odeia Halloween
-http://hel.lhmtv.gq/play/?contentId=3e4d41f3ca44e817&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=3e4d41f3ca44e817&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E07 Todo mundo odeia a baba
-http://hel.lhmtv.gq/play/?contentId=63c52029425c05da&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=63c52029425c05da&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E08 Todo mundo odeia a lavanderia
-http://hel.lhmtv.gq/play/?contentId=5aedc7344967293a&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=5aedc7344967293a&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E09 Todo mundo odeia comida de ticket
-http://hel.lhmtv.gq/play/?contentId=3bd73a401a67bcb5&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=3bd73a401a67bcb5&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E10 Todo mundo odeia Greg
-http://hel.lhmtv.gq/play/?contentId=15e688c39666896d&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=15e688c39666896d&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E11 Todo mundo odeia Natal
-http://hel.lhmtv.gq/play/?contentId=31edd0216ac13518&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=31edd0216ac13518&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E12 Todo mundo odeia emprego temporario
-http://hel.lhmtv.gq/play/?contentId=e4bcf202b91ef264&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=e4bcf202b91ef264&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E13 Todo mundo odeia tirar foto
-http://hel.lhmtv.gq/play/?contentId=265160d769a2ceb7&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=265160d769a2ceb7&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E14 Todo mundo odeia Dia dos Namorados
-http://hel.lhmtv.gq/play/?contentId=80e7b9a7d2549bcd&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=80e7b9a7d2549bcd&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E15 Todo mundo odeia loteria
-http://hel.lhmtv.gq/play/?contentId=220a892191c65b65&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=220a892191c65b65&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E16 Todo mundo odeia gota
-http://hel.lhmtv.gq/play/?contentId=e873a92b95800e96&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=e873a92b95800e96&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E17 Todo mundo odeia Funeral
-http://hel.lhmtv.gq/play/?contentId=1e790aaaf944b407&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=1e790aaaf944b407&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E18 Todo mundo odeia Corleone
-http://hel.lhmtv.gq/play/?contentId=31ad3a0bc7796a7e&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=31ad3a0bc7796a7e&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E19 Todo mundo odeia Drew
-http://hel.lhmtv.gq/play/?contentId=e0c2e8c47fa5c4ce&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=e0c2e8c47fa5c4ce&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E20 Todo mundo odeia Playboy
-http://hel.lhmtv.gq/play/?contentId=d7412a0aef7cc1a4&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=d7412a0aef7cc1a4&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E21 Todo mundo odeia a prisao
-http://hel.lhmtv.gq/play/?contentId=b5e5a733d2faf9e8&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=b5e5a733d2faf9e8&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc1.jpg" group-title="Todo mundo odeia o Chris", 1T-E22 Todo mundo odeia o Dia dos Pais
-http://hel.lhmtv.gq/play/?contentId=e4e0ee030a75d350&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=e4e0ee030a75d350&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E01 Todo mundo odeia rejeicao
-http://hel.lhmtv.gq/play/?contentId=df016ec564387091&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=df016ec564387091&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E02 Todo mundo odeia o presidente do gremio
-http://hel.lhmtv.gq/play/?contentId=62592edbe93d30a3&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=62592edbe93d30a3&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E03 Todo mundo odeia eleicoes
-http://hel.lhmtv.gq/play/?contentId=fb997c493e79e755&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=fb997c493e79e755&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E04 Todo mundo odeia um mentiroso
-http://hel.lhmtv.gq/play/?contentId=fcbcc1dd0ca66cc7&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=fcbcc1dd0ca66cc7&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E05 Todo mundo odeia Malvo
-http://hel.lhmtv.gq/play/?contentId=2c3e38628c3d5061&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=2c3e38628c3d5061&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E06 Todo mundo odeia sistema de parceiragem
-http://hel.lhmtv.gq/play/?contentId=976c1e5326839c52&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=976c1e5326839c52&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E07 Todo mundo odeia promessas
-http://hel.lhmtv.gq/play/?contentId=2c62f9c53519234d&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=2c62f9c53519234d&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E08 Todo mundo odeia feriado
-http://hel.lhmtv.gq/play/?contentId=d0278ac44a5e048f&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=d0278ac44a5e048f&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E09 Todo mundo odeia supersticao
-http://hel.lhmtv.gq/play/?contentId=c66865eee00cd9fb&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=c66865eee00cd9fb&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E10 Todo mundo odeia Papai Noel
-http://hel.lhmtv.gq/play/?contentId=203395bed9572bb0&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=203395bed9572bb0&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E11 Todo mundo odeia ovos
-http://hel.lhmtv.gq/play/?contentId=cdcc980c912d5d46&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=cdcc980c912d5d46&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E12 Todo mundo odeia os inspetores
-http://hel.lhmtv.gq/play/?contentId=7a82ed6ddeff9de9&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=7a82ed6ddeff9de9&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E13 Todo mundo odeia o inverno
-http://hel.lhmtv.gq/play/?contentId=d99fb3351b35d294&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=d99fb3351b35d294&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E14 Todo mundo odeia o substituto
-http://hel.lhmtv.gq/play/?contentId=21afe12763ab8044&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=21afe12763ab8044&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E15 Todo mundo odeia matar aula
-http://hel.lhmtv.gq/play/?contentId=a56ef3516eadca36&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=a56ef3516eadca36&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E16 Todo mundo odeia roubar correntes
-http://hel.lhmtv.gq/play/?contentId=7740989df603ccbb&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=7740989df603ccbb&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E17 Todo mundo odeia Djs
-http://hel.lhmtv.gq/play/?contentId=368d01287fd503c8&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=368d01287fd503c8&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E18 Todo mundo odeia beisebol
-http://hel.lhmtv.gq/play/?contentId=643f023a030b957d&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=643f023a030b957d&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E19 Todo mundo odeia apostar
-http://hel.lhmtv.gq/play/?contentId=bd66eeed0c73b56e&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=bd66eeed0c73b56e&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E20 Todo mundo odeia piadas sujas
-http://hel.lhmtv.gq/play/?contentId=8a375c620e37e4a4&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=8a375c620e37e4a4&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E21 Todo mundo odeia matematica
-http://hel.lhmtv.gq/play/?contentId=a4316c659ea8370f&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=a4316c659ea8370f&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc2.jpg" group-title="Todo mundo odeia o Chris", 2T-E22 Todo mundo odeia o ultimo dia
-http://hel.lhmtv.gq/play/?contentId=abc8f8a9a0e0cbac&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=abc8f8a9a0e0cbac&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E01 Todo mundo odeia o orientador
-http://hel.lhmtv.gq/play/?contentId=79cf7c4270fd3269&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=79cf7c4270fd3269&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E02 Todo mundo odeia Caruso
-http://hel.lhmtv.gq/play/?contentId=ebec492c1d1db94e&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=ebec492c1d1db94e&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E03 Todo mundo odeia Dirigir
-http://hel.lhmtv.gq/play/?contentId=69d04c682c2fc0b0&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=69d04c682c2fc0b0&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E04 Todo mundo odeia o Cachorro
-http://hel.lhmtv.gq/play/?contentId=c58a214b2141bd2&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=c58a214b2141bd2&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E05 Todo mundo odeia Casa de Solteiro
-http://hel.lhmtv.gq/play/?contentId=b111edf542c3b75e&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=b111edf542c3b75e&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E06 Todo mundo odeia Bed-Stuy
-http://hel.lhmtv.gq/play/?contentId=c736dc53327dc261&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=c736dc53327dc261&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E07 Todo mundo odeia hospedes
-http://hel.lhmtv.gq/play/?contentId=b8460fb83d26fe73&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=b8460fb83d26fe73&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E08 Todo mundo odeia o novato
-http://hel.lhmtv.gq/play/?contentId=73d79174e56a2897&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=73d79174e56a2897&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E09 Todo mundo odeia Kwanzaa
-http://hel.lhmtv.gq/play/?contentId=acafc2c1a498db8c&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=acafc2c1a498db8c&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E10 Todo mundo odeia salario minimo
-http://hel.lhmtv.gq/play/?contentId=17490e2d33745a53&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=17490e2d33745a53&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E11 Todo mundo odeia a Rodoviaria
-http://hel.lhmtv.gq/play/?contentId=b2f67ddf0d4c4c8a&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=b2f67ddf0d4c4c8a&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E12 Todo mundo odeia Bad Boys
-http://hel.lhmtv.gq/play/?contentId=4da8312140cbc5c1&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=4da8312140cbc5c1&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E13 Todo mundo odeia o Primeiro Beijo
-http://hel.lhmtv.gq/play/?contentId=f25b0f461f40bcc3&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=f25b0f461f40bcc3&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E14 Todo mundo odeia a Pascoa
-http://hel.lhmtv.gq/play/?contentId=d67a7966e397a9ca&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=d67a7966e397a9ca&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E15 Todo mundo odeia Gretzky
-http://hel.lhmtv.gq/play/?contentId=b7d24586f9722778&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=b7d24586f9722778&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E16 Todo mundo odeia o DFN
-http://hel.lhmtv.gq/play/?contentId=c808abdc45ebf730&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=c808abdc45ebf730&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E17 Todo mundo odeia Ex-presidiario
-http://hel.lhmtv.gq/play/?contentId=938314ba2c048126&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=938314ba2c048126&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E18 Todo mundo odeia o Dia da Terra
-http://hel.lhmtv.gq/play/?contentId=ccc9c222ede327a0&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=ccc9c222ede327a0&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E19 Todo mundo odeia ser Descolado
-http://hel.lhmtv.gq/play/?contentId=e7d75211e41a9c21&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=e7d75211e41a9c21&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E20 Todo mundo odeia o Baile da Nona Serie
-http://hel.lhmtv.gq/play/?contentId=88062d8f7bdfc281&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=88062d8f7bdfc281&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E21 Todo mundo odeia o Dia das Maes
-http://hel.lhmtv.gq/play/?contentId=898673e348a37649&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=898673e348a37649&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc3.jpg" group-title="Todo mundo odeia o Chris", 3T-E22 Todo mundo odeia Odeia Formatura
-http://hel.lhmtv.gq/play/?contentId=d24239384cc43d4e&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=d24239384cc43d4e&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E01 Todo mundo odeia Tattaglia
-http://hel.lhmtv.gq/play/?contentId=cc7ae8964e494cd7&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=cc7ae8964e494cd7&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E02 Todo mundo odeia Bolo
-http://hel.lhmtv.gq/play/?contentId=b2e148d6b8781f33&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=b2e148d6b8781f33&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E03 Todo mundo odeia Baile
-http://hel.lhmtv.gq/play/?contentId=c7af63cab178edfd&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=c7af63cab178edfd&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E04 Todo mundo odeia Professora de Literatura
-http://hel.lhmtv.gq/play/?contentId=5d4540f07583ceac&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=5d4540f07583ceac&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E05 Todo mundo odeia o Meu Brother
-http://hel.lhmtv.gq/play/?contentId=7b836e86ec4f7a10&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=7b836e86ec4f7a10&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E06 Todo mundo odeia o Doc
-http://hel.lhmtv.gq/play/?contentId=1c00ce26b5e7bab0&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=1c00ce26b5e7bab0&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E07 Todo mundo odeia X-9
-http://hel.lhmtv.gq/play/?contentId=c5b5f29736eb4801&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=c5b5f29736eb4801&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E08 Todo mundo odeia Garotas Altas e Magras
-http://hel.lhmtv.gq/play/?contentId=728ec5a3f8faefe3&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=728ec5a3f8faefe3&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E09 Todo mundo odeia o James
-http://hel.lhmtv.gq/play/?contentId=2f2299c525de122f&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=2f2299c525de122f&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E10 Todo mundo odeia Vespera do Ano Novo
-http://hel.lhmtv.gq/play/?contentId=9475f41be63ba3d3&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=9475f41be63ba3d3&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E11 Todo mundo odeia o Sr. Levine
-http://hel.lhmtv.gq/play/?contentId=f8d8044af8567384&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=f8d8044af8567384&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E12 Todo mundo odeia Lutadores Fracassados
-http://hel.lhmtv.gq/play/?contentId=c4f7bbdf0182c162&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=c4f7bbdf0182c162&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E13 Todo mundo odeia Identidades Falsas
-http://hel.lhmtv.gq/play/?contentId=5ad90453bff2f70f&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=5ad90453bff2f70f&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E14 Todo mundo odeia Exames para Faculdade
-http://hel.lhmtv.gq/play/?contentId=f4a88167d204a1be&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=f4a88167d204a1be&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E15 Todo mundo odeia Boxe
-http://hel.lhmtv.gq/play/?contentId=ef71e3971f79e9fa&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=ef71e3971f79e9fa&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E16 Todo mundo odeia Lasanha
-http://hel.lhmtv.gq/play/?contentId=be272b9bd4d2ae06&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=be272b9bd4d2ae06&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E17 Todo mundo odeia Semana da Primavera
-http://hel.lhmtv.gq/play/?contentId=de1bdabe62bd5f71&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=de1bdabe62bd5f71&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E18 Todo mundo odeia Carro
-http://hel.lhmtv.gq/play/?contentId=33337b3765de7888&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=33337b3765de7888&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E19 Todo mundo odeia Lavar a Louca
-http://hel.lhmtv.gq/play/?contentId=d0825535055279f3&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=d0825535055279f3&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E20 Todo mundo odeia Tasha
-http://hel.lhmtv.gq/play/?contentId=d61d068e9dcc14df&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=d61d068e9dcc14df&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E21 Todo mundo odeia Ameacas de Bomba
-http://hel.lhmtv.gq/play/?contentId=2b410c78e4723d24&LHMTv 
+http://hel.lhmtv.gq/play/?contentId=2b410c78e4723d24&amp;LHMTv 
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/series/tmoc4.jpg" group-title="Todo mundo odeia o Chris", 4T-E22 Todo mundo odeia o Supletivo
-http://hel.lhmtv.gq/play/?contentId=dbbbfa317017052c&LHMTv
+http://hel.lhmtv.gq/play/?contentId=dbbbfa317017052c&amp;LHMTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Pets – A Vida Secreta dos Bichos 2
 http://thor.lhmtv.gq/filmes/pets2ts-dub-720p.mp4?LHMTv
@@ -15841,7 +15829,7 @@ http://player1.ultracinefilmes.com/filmes/mibdub.mp4
 http://player1.ultracinefilmes.com/filmes/godzilladub.mp4
 
 #EXTINF:-1 ,Shazam
-http://cdn2.netcine.us/html/content/conteudolb4/filmes2019/SHAZAMLEG-BAIXO.mp4?token=NCTkK9cl-ywmeWq48CPKJQ&expires=1561752379
+http://cdn2.netcine.us/html/content/conteudolb4/filmes2019/SHAZAMLEG-BAIXO.mp4?token=NCTkK9cl-ywmeWq48CPKJQ&amp;expires=1561752379
 
 #EXTINF:-1 ,Vingadores Ultimato
 http://player1.ultracinefilmes.com/filmes/vingadoresdub.mp4
@@ -16064,7 +16052,7 @@ http://thor.lhmtv.gq/filmes/duranteatormenta-dub-1080p.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Cinco Passos de Voce
 http://thor.lhmtv.gq/filmes/acincopassosdevocets-dub-720p.mp4?LHMTv
 
-#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Holmes & Watson
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Holmes &amp; Watson
 http://thor.lhmtv.gq/filmes/holmesewatson-dub-720p.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Retorno de Mary Poppins
@@ -16372,6 +16360,7 @@ http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
  
 #EXTINF:-1 tvg-logo="http://bit.ly/2rGWoYk" group-title="FILMES" pltv-subgroup="ACAO",GUERRA AO TERROR
 http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2KmosqZ" group-title="FILMES" pltv-subgroup="ACAO",RED
 http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4
  
@@ -16380,6 +16369,7 @@ http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4
  
 #EXTINF:-1 tvg-logo="http://bit.ly/2Kmnj2q" group-title="FILMES" pltv-subgroup="ACAO",RESIDENT EVIL:EXTINCAO
 http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2jYRHVr" group-title="FILMES" pltv-subgroup="ACAO",ROCKY BALBOA
 http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
  
@@ -16562,6 +16552,7 @@ http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
  
 #EXTINF:-1 tvg-logo="http://bit.ly/2wyLfh9" group-title="FILMES" pltv-subgroup="COMEDIA",UM PEIXE CHAMADO WANDA
 http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2KSekXY" group-title="FILMES" pltv-subgroup="COMEDIA",NEM POR CIMA DO MEU CADAVER
 http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4
  
@@ -16615,7 +16606,6 @@ http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4
  
 #EXTINF:-1 tvg-logo="http://bit.ly/2IctSbA" group-title="FILMES" pltv-subgroup="COMEDIA",CURTINDO A NOITE
 http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4
- 
  
 #EXTINF:-1 tvg-logo="http://bit.ly/2KhEBOr" group-title="FILMES" pltv-subgroup="COMEDIA",DOUTOR FANTASTICO
 http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
@@ -16694,6 +16684,7 @@ http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
  
 #EXTINF:-1 tvg-logo="http://bit.ly/2KZmQEv" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",LAWRENCE DA ARABIA
 http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2rAci6X" group-title="FILMES" pltv-subgroup="DRAMA E ROMANCE",O RESGATE DE UM CAMPEAO
 http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
  
@@ -16751,10 +16742,9 @@ http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
  
 #EXTINF:-1 tvg-logo="http://bit.ly/2wDk3hs" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",A MORTE DO DEMONIO
 http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2ImDsnZ" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",NAO ADIANTA FUGIR
 http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
- 
-  
  
 #EXTINF:-1 tvg-logo="http://bit.ly/2Gd6818" group-title="FILMES" pltv-subgroup="TERROR E SUSPENSE",FANTASMAS DE MARTE
 http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
@@ -16785,6 +16775,7 @@ http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
  
 #EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES DUBLADOS", JCVD
 http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4
+
 #EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES DUBLADOS", Sou Espiao
 http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4
  
@@ -16935,7 +16926,7 @@ http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES DUBLADOS 2", Bons Costumes
 http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
  
-#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES DUBLADOS 2", Julie & Julia
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES DUBLADOS 2", Julie &amp; Julia
 http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4
  
 #EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES DUBLADOS 2", De Repente 30
@@ -17112,7 +17103,6 @@ http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/HospedeDoMedo-DUBLADO.mp4/playl
 #EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES DUBLADOS", Aproximando-se do Desconhecido dublado 2016
 http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Aproximando-SeDoDesconhecido-DUBLADO.mp4/playlist.m3u8
  
-
 #EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES DUBLADOS", TRIPLO X 2: ESTADO DE EMERGÊNCIA DUB
 http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?|User-agent=Mozilla%2F5.0%20(iPhone%3B%20U%3B%20CPU%20iPhone%20OS%204_3_2%20like%20Mac%20OS%20X%3B%20en-us)%20AppleWebKit%
  
@@ -17149,7 +17139,7 @@ http://media-br-am.crackle.com/1/f/z6/ltvlf_480p_1mbps.mp4
 #EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Sem Categoria", Homens de Preto
 http://media-br-am.crackle.com/1/h/v6/hmvlf_480p_1mbps.mp4
  
-#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Sem Categoria", Honra & Coragem - As Quatro Plumas
+#EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Sem Categoria", Honra &amp; Coragem - As Quatro Plumas
 http://media-br-am.crackle.com/1/6/d6/04vlf_480p_1mbps.mp4
  
 #EXTINF:-1 tvg-logo="http://www.lhmtv.tk/channellogo/filmes.png" group-title="Sem Categoria", Hooligans: Furia nos campos
@@ -17446,7 +17436,7 @@ http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4?STANIPTV
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/w/96/d41lf_tnl_210x118.jpg" group-title="DRAMA", Bons Costumes
 http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4?STANIPTV
  
-#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/n6/2w2lf_tnl_210x118.jpg" group-title="DRAMA", Julie & Julia
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/n6/2w2lf_tnl_210x118.jpg" group-title="DRAMA", Julie &amp; Julia
 http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4?STANIPTV
  
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/j/96/uz1lf_tnl_210x118.jpg" group-title="DRAMA", Meus Quinze Anos
@@ -17463,6 +17453,7 @@ http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4?STANIPTV
  
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/pt/4/4b/Rec_poster.jpg" group-title="DRAMA", REC
 http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4?STANIPTV
+
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/z6/wuvlf_tnl_210x118.jpg" group-title="DRAMA", XXX2 - Estado de Emergencia
 http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?STANIPTV
  
@@ -17522,6 +17513,7 @@ http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4?STANIPTV
  
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/k/ol/y0byb_tnl_210x118.jpg?ts=20130222043142" group-title="ROMANCE", Jogando com Prazer
 http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4?STANIPTV
+
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/c/4m/c9fyb_tnl_210x118.jpg" group-title="TERROR", Annie
 http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4?STANIPTV
  
@@ -17664,6 +17656,7 @@ http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
  
 #EXTINF:-1 tvg-logo="http://tvolink.com/filmes/img/Dumbo.jpg" group-title="ANIMAÇÃO", Dumbo 1941
 http://media-br-am.crackle.com/1/c/b6/fl5lf_480p.mp4
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y8x6h3st" group-title="DRAMA", Justiça Para Todos 1979
 http://media-br-am.crackle.com/1/u/n6/c6ulf_480p.mp4
  
@@ -18057,7 +18050,7 @@ http://media-br-am.crackle.com/1/v/16/l14lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y9xynkpd" group-title="ROMANCE", Regras da Atração 2002
 http://media-br-am.crackle.com/1/p/16/z04lf_480p.mp4
  
-#EXTINF:-1 tvg-logo="https://tvolink.com/filmes/img/Lilo%20&%20Stitch.jpg" group-title="ANIMAÇÃO", Lilo & Stitch 2002
+#EXTINF:-1 tvg-logo="https://tvolink.com/filmes/img/Lilo%20&amp;%20Stitch.jpg" group-title="ANIMAÇÃO", Lilo &amp; Stitch 2002
 http://media-br-am.crackle.com/1/r/x6/ts4lf_480p.mp4
  
 #EXTINF:-1 tvg-logo="https://tvolink.com/filmes/img/Hannibal.jpg" group-title="SUSPENSE", Hannibal 2001
@@ -18150,7 +18143,7 @@ http://media-br-am.crackle.com/1/g/b6/wi5lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://tinyurl.com/ydz3gaxv" group-title="AÇÃO", O Hobbit. A Batalha dos Cinco Exércitos 2014
 http://media-br-am.crackle.com/1/1/b6/9n5lf_480p.mp4
  
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ydfknall" group-title="ANIMAÇÃO", Vingadores Confidencial:Viúva Negra & Justiceiro 2014
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydfknall" group-title="ANIMAÇÃO", Vingadores Confidencial:Viúva Negra &amp; Justiceiro 2014
 http://media-br-am.crackle.com/1/7/j6/j45lf_480p.mp4
  
 #EXTINF:-1 tvg-logo="https://tvolink.com/filmes/img/Gente%20Grande%202.jpg" group-title="COMÉDIA", Gente Grande 2 2013
@@ -19128,7 +19121,7 @@ http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/28NkGau" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Anjos da Noite 3 - A Rebeliao - Ação - Dublado
 http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4
  
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_YJ5kgB-UVT8/S0xiMvxGOGI/AAAAAAAAAZM/JoLWl4lmYCI/s250/eu+sou+espiao.jpg&w=166&h=250" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Sou Espiao - Ação - Dublado
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_YJ5kgB-UVT8/S0xiMvxGOGI/AAAAAAAAAZM/JoLWl4lmYCI/s250/eu+sou+espiao.jpg&amp;w=166&amp;h=250" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Sou Espiao - Ação - Dublado
 http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4
  
 #EXTINF:-1 tvg-logo="http://bit.ly/28Lacpn" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Assalto Sobre Trilhos - Ação - Dublado
@@ -19179,7 +19172,7 @@ http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
 #EXTINF:-1 tvg-logo="http://mlb-s2-p.mlstatic.com/dvd-original-do-filme-desafio-radical-devon-sawa-14507-MLB3055191906_082012-O.jpg" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Desafio Radical - Ação - Dublado
 http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
  
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_qzW5Q7OTOqc/SZxSF5WUsOI/AAAAAAAABjg/NagKJ2gZaPM/s250/divisao.jpeg&w=166&h=250" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Divisao de Homicidios - Ação - Dublado
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_qzW5Q7OTOqc/SZxSF5WUsOI/AAAAAAAABjg/NagKJ2gZaPM/s250/divisao.jpeg&amp;w=166&amp;h=250" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Divisao de Homicidios - Ação - Dublado
 http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4
  
 #EXTINF:-1 tvg-logo="http://goo.gl/K3nZSO" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Ação",Godzilla (1998) - Ação - Dublado
@@ -19402,7 +19395,7 @@ http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/w/96/d41lf_tnl_210x118.jpg?ts=20150226222223" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Bons Costumes - Comédia - Dublado
 http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
  
-#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/n6/2w2lf_tnl_210x118.jpg?ts=20150225004008" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Julie & Julia - Comédia - Dublado
+#EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/r/n6/2w2lf_tnl_210x118.jpg?ts=20150225004008" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",Julie &amp; Julia - Comédia - Dublado
 http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4
  
 #EXTINF:-1 tvg-logo="http://images-br-am.crackle.com/1/s/96/y01lf_tnl_210x118.jpg?ts=20141215203848" group-title="[COLOR red]FILMES[/COLOR] Dublados" pltv-subgroup="Comédia",De Repente 30 - Comédia - Dublado
@@ -20038,221 +20031,315 @@ http://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w1458629316.m3u8
 http://94.46.222.90:2107
 
 ################################################################################## SOUND!
+
 #EXTINF:-1 tvg-logo="" group-title="SOUND!",[COLOR red]//////////SOUND!//////////[/COLOR]
 http://23.23.5.1
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 70
 http://192.99.150.31:8241/stream?
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 80
 http://192.99.150.31:8697/stream?
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 90
 http://192.99.150.31:8056/stream?
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ANOS 2000
 http://6d9a.webradio.upx.net.br:9940/stream?
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,AXÉ
 http://192.99.150.31:8305/stream?
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,BOSSA NOVA
 http://6d9a.webradio.upx.net.br:9974/stream?
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,BREGA
 http://192.99.150.31:9007/stream?
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,ELETRÔNICA
 http://192.99.150.31:9095/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,FESTA
 http://6d9a.webradio.upx.net.br:9070/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,FORRÓ
 http://192.99.150.31:9019/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,FUNK
 http://192.99.150.31:9089/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,GOSPEL
 http://192.99.150.31:9101/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,HIP HOP
 http://192.99.150.31:8721/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,HISTORINHA INFANTIL
 http://192.99.150.31:8371/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,KIDS
 http://192.99.150.31:9431/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,JAZZ
 http://192.99.150.31:8042/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,LOUNGE
 http://6d9a.webradio.upx.net.br:9064/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,METAL
 http://6d9a.webradio.upx.net.br:9898/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,MPB
 http://192.99.150.31:8775/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,MÚSICA CLÁSSICA
 http://6d9a.webradio.upx.net.br:9970/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,NEW ROCK
 http://6d9a.webradio.upx.net.br:8028/stream? 
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,PAGODE
 http://6d9a.webradio.upx.net.br:9061/stream?
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,POP RITS
 http://6d9a.webradio.upx.net.br:9046/stream?
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,POP ROCK
 http://6d9a.webradio.upx.net.br:8016/stream?
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,SERTANEJO UNIVERSITÁRIO
 http://192.99.150.31:9191/stream?
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,TRILHAS SONORAS
 http://6d9a.webradio.upx.net.br:9896/stream?  
  
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, SERTANEJO RAIZES
 http://192.99.150.31:9155/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, BOSSA NOVA
 http://6d9a.webradio.upx.net.br:9974/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, RAP NACIONAL
 http://192.99.150.31:8377/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, REGGAE
 http://192.99.150.31:8715/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png"TVG-NAME=''RADIO=TRUE, ROBERTO CARLOS
 http://192.99.150.31:9137/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png"TVG-NAME=''RADIO=TRUE, ROCK CLASSICO
 http://192.99.150.31:9125/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, RODEIO
 http://192.99.150.31:9473/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, SERTANEJO
 http://192.99.150.31:9485/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, SMOOTH JAZZ
 http://192.99.150.31:8042/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, TECHNO
 http://192.99.150.31:8301/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, TECNO BREGA
 http://192.99.150.31:8989/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE, STUDIO DO AMOR
 http://192.99.150.31:8962/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png"' TVG-NAME=''RADIO=TRUE, GR6 EXPLODE FM
 http://216.245.204.227:8054/live
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://metropolitanafm.com.br/ao-vivo/assets/imgs/logo.png" TVG-NAME=''RADIO=TRUE,METROPOLETANA FM AO VIVO
 http://ice.paineldj3.com.br:8006/live
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://metropolitanafm.com.br/ao-vivo/assets/imgs/logo.png" TVG-NAME=''RADIO=TRUE,METROPOLETANA FM - SERTANEJO
 http://m.paineldj6.com.br:8504/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://metropolitanafm.com.br/ao-vivo/assets/imgs/logo.png" TVG-NAME=''RADIO=TRUE,METROPOLETANA FM - POP
 http://paineldj4.com.br:8510/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://metropolitanafm.com.br/ao-vivo/assets/imgs/logo.png" TVG-NAME=''RADIO=TRUE,METROPOLETANA FM - FUNK
 http://paineldj4.com.br:8306/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://metropolitanafm.com.br/ao-vivo/assets/imgs/logo.png" TVG-NAME=''RADIO=TRUE,METROPOLETANA FM - LIGHT
 http://paineldj4.com.br:8594/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO 104 FM
 http://noasrv.caster.fm:10127/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO ATLÂNTIDA FM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO CAIÇARA FM/AM
 http://noasrv.caster.fm:10130/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO CAPÃO FM
 http://noasrv.caster.fm:10131/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO COCA COLA FM
 http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO CONTINENTAL FM
 http://noasrv.caster.fm:10126/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO ELDORADO FM
 http://noasrv.caster.fm:10136/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO FARROUPILHA FM/AM
 http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO FM PREMIUM
 http://noasrv.caster.fm:10125/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO GAÚCHA FM/AM
 http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO GRENAL FM
 http://noasrv.caster.fm:10115/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO HISTORINHA INFANTIL
 http://192.99.150.31:8371/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO IMBÉ FM
 http://noasrv.caster.fm:10135/stream
+
 #EXTINF:-1 GGROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO ITAPEMA FM
 http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO LIBERDADE FM
 http://noasrv.caster.fm:10129/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO MIX FM
 http://mixaac.crossradio.com.br:1100/live
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO PAMPA FM
 http://noasrv.caster.fm:10128/stream
+
 #EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO PRAIA FM
 http://noasrv.caster.fm:10132/stream
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RADIO = TRUE, RÁDIO PRINCESA FM
 http://noasrv.caster.fm:10124/stream
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RÁDIO = VERDADEIRO, RÁDIO ROBERTO CARLOS
 http://192.99.150.31:9137/stream
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RADIO = TRUE, RÁDIO STUDIO DO AMOR
 http://192.99.150.31:8962/stream
-#EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RADIO = TRUE, RÁDIO TRAMANDAÍ FM
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "https://cdn.webrad.io/images/logos/radiosaovivo-net/radio-gazeta-fm-88-1-sp.png" TVG-NAME = '' RADIO = VERDADEIRO, RÁDIO GAZETA 88.1 FM
 http://gazetafm.crossradio.com.br:8000/stream/2/
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RADIO = TRUE, RÁDIO TRANSAMERICA FM
 http://transamerica.crossradio.com.br:9114/live.mp3
-#EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RÁDIO = VERDADEIRO, RÁDIO XANGRI-LÁ FM
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RÁDIO = VERDADEIRO, GLOBO SP FM 92.5 *
 http://sh1.upx.com.br:8098/;
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RÁDIO = TRUE, BAND VALE FM
 http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RÁDIO = VERDADEIRO, BANDA NATIVA FM
 http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RADIO = TRUE, BAND AM-FM SP *
 http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RADIO = TRUE, BAND FM SP *
 http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RADIO = VERDADEIRO, FAIXA NOTÍCIAS SP *
 http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RADIO = VERDADEIRO, JOVEN PAN SP 100.9 *
 http://14103.live.streamtheworld.com/JP_SP_FMAAC.aac
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RADIO = TRUE, MIX 106.3 SP
 http://mixmp3.crossradio.com.br:1102/live
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RÁDIO = VERDADEIRO, EVANGELHO FM 89
 http://209.126.127.123:8885/live?1522866827534
+
 #EXTINF: -1 GROUP-TITLE = "SOUND!" TVG-LOGO = "http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME = '' RADIO = VERDADEIRO, NATIVA SP *
 http://cast.hoost.com.br:8554/stream
 
 ################################################################################## RÁDIOS PARAÍBA
+
 #EXTINF:-1 tvg-logo="" group-title="RÁDIOS PARAÍBA",[COLOR red]//////////RÁDIOS PARAÍBA//////////[/COLOR]
 http://23.23.4.9
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, CBN - CAMPINA GRANDE
 http://audio.cabobranco.tv.br:8000/cbncg
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, CORREIO 98 FM - CAMPINA GRANDE
 http://ice11.crossradio.com.br:8026/;*.mp3
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, RADIO 101 FM - CAMPINA GRANDE
 http://radioapp.agenciaellis.com.br/Cariri1160
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, RADIO CIDADE AM - CAMPINA GRANDE
 http://69.64.33.233:8000/redeesperanca
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://2.bp.blogspot.com/-n6jrftLBkns/T-5QghdGrLI/AAAAAAAAGKc/86f4QMz5i-A/s1600/RADIO_ARAPUAN_FM_CAJAZEIRAS.jpg" TVG-NAME=''RADIO=TRUE, ARAPUAN - JOÂO PESSOA
 http://centova6.ciclanohost.com.br:9104/;stream.nsv
 
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="http://3.bp.blogspot.com/-AlbIB9TV7cc/TlZ5VfLhx2I/AAAAAAAABIM/_FMY2lrGkSo/s1600/sistema-correio.png" TVG-NAME=''RADIO=TRUE, CORREIO - JOÃO PESSOA
 http://ice11.crossradio.com.br:8022/;*.mp3
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, TABAJARA AM - JOÃO PESSOA
 http://stm15.srvstm.com.br:19830/;
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, CORREIO 98 FM - JOÃO PESSOA
 http://ice11.crossradio.com.br:8014/;*.mp3
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, MIX FM - JOÃO PESSOA
 http://158.69.117.161:8016/live
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, CABO BRANCO FM - JOÃO PESSOA
 http://audio.cabobranco.tv.br:8000/cbfm
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, CPAD - JOÃO PESSOA
 http://server3.webradios.com.br:9404/;
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, JOVEN PAM FM - JOÃO PESSOA
 http://67.205.160.166:8000/live
 
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://cdn-radiotime-logos.tunein.com/s123822q.png" TVG-NAME=''RADIO=TRUE, 104 FM SOUSA
 http://stream.7br.com.br:10018/;
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="http://radioprogressopb.com.br/arquivos/logo/progresso.png" TVG-NAME=''RADIO=TRUE, PROGRESSO AM - SOUSA
 http://172.82.141.138:32886/;
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://img.radios.com.br/radio/lg/radio13666_1506082366.jpg" TVG-NAME=''RADIO=TRUE, LIDER 97 FM - SOUSA
 http://wz3.dnip.com.br/lider97/lider97.stream/playlist.m3u8
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://img.radios.com.br/radio/lg/radio43041_1486832277.jpg" TVG-NAME=''RADIO=TRUE, MAX CORREIO FM - SOUSA
 http://stm3.paraibahost.com.br:23558/;
-#EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://tudoradio.com/img/uploads/radios/radio_educativafmsousapb.png" TVG-NAME=''RADIO=TRUE, EDUCATIVA FM - SOUSA
-
 
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="http://www.liberdadepb.com.br/wp-content/themes/liberdadepb/img/logo-liberdade-pb2.png" TVG-NAME=''RADIO=TRUE, LIBERDADE FM - POMBAL
 http://centova14.ciclanohost.com.br:8180/;
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="http://2.bp.blogspot.com/--AonEe0rnSs/VKiRI2KwU7I/AAAAAAAAYVE/dPJmgQGy9ho/s1600/RADIO_MARINGA_FM_POMBAL_PB.png" TVG-NAME=''RADIO=TRUE, MARINGÁ 98.7 FM - POMBAL
 http://whmsonic9.ipstm.net:9304/shoutcast?ver=901507
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://img.radios.com.br/radio/xl/radio10480_1518287433.jpg" TVG-NAME=''RADIO=TRUE, BOM SUCESSO - POMBAL
 http://stream.hostpg.com.br:8200/stream;
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="http://www.i9suaradio.com.br/sites/radios/opcao104/imagens/logo/logo_opcao104.png" TVG-NAME=''RADIO=TRUE, OPÇÃO 104 FM - POMBAL
 http://45.43.200.42:12374/;
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://img.radios.com.br/radio/xl/radio37419_1466427950.jpg" TVG-NAME=''RADIO=TRUE, ESTAÇÃO JC - POMBAL
 http://streaming15.hstbr.net:8224/live
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://img.radios.com.br/radio/lg/radio33891_1470318845.jpg" TVG-NAME=''RADIO=TRUE, WEB RÁDIO NO TOQUE DA BOLA - POMBAL
 http://server01.ouvir.radio.br:8060/stream
 
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://2.bp.blogspot.com/-n6jrftLBkns/T-5QghdGrLI/AAAAAAAAGKc/86f4QMz5i-A/s1600/RADIO_ARAPUAN_FM_CAJAZEIRAS.jpg" TVG-NAME=''RADIO=TRUE, ARAPUAN - CAJAZEIRAS
 http://centova6.ciclanohost.com.br:9346/stream/1/
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, RADIO OESTE AM - CAJAZEIRAS
 http://streaming06.maxcast.com.br:8120/live
 
@@ -20261,7 +20348,9 @@ http://centova6.ciclanohost.com.br:9518/;stream.nsv
 
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://2.bp.blogspot.com/-n6jrftLBkns/T-5QghdGrLI/AAAAAAAAGKc/86f4QMz5i-A/s1600/RADIO_ARAPUAN_FM_CAJAZEIRAS.jpg" TVG-NAME=''RADIO=TRUE, ARAPUAN - PATOS
 http://centova6.ciclanohost.com.br:9312/;stream.nsv
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://img.radios.com.br/radio/xl/radio13117_1504720923.jpg" TVG-NAME=''RADIO=TRUE, ESPINHARAS AM - PATOS
 http://stm45.srvstm.com:26924/stream/1/ 
+
 #EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, ITATIUNGA FM - PATOS
 http://stm5.srvstm.com:12908/;
